@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "hackmaster",
   "version": "1.0.0",
-  "description": "CSS compiler for the Boilerplate system",
+  "description": "CSS compiler for the Hackmaster system",
   "scripts": {
     "build": "gulp",
     "compile": "gulp css",
@@ -11,8 +11,8 @@
   "browserslist": [
     "last 3 versions"
   ],
-  "author": "John Doe",
-  "license": "MIT",
+  "author": "Derg",
+  "license": "GPL v3",
   "private": true,
   "dependencies": {
     "gulp": "^4.0.2",
