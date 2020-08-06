@@ -3,6 +3,7 @@ import { HackmasterActor } from "./actor/actor.js";
 import { HackmasterActorSheet } from "./actor/actor-sheet.js";
 import { HackmasterItem } from "./item/item.js";
 import { HackmasterItemSheet } from "./item/item-sheet.js";
+import "./penetrate-dice.js";
 
 Hooks.once('init', async function() {
 
