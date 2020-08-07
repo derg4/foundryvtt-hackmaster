@@ -1,1 +1,23 @@
-{}
+{
+    "Hackmaster.str": "Str",
+    "Hackmaster.int": "Int",
+    "Hackmaster.wis": "Wis",
+    "Hackmaster.dex": "Dex",
+    "Hackmaster.con": "Con",
+    "Hackmaster.lks": "Lks",
+    "Hackmaster.cha": "Cha",
+    "Hackmaster.feat_of_str": "Feat<br>of Str.",
+    "Hackmaster.feat_of_agi": "Feat<br>of Agi.",
+    "Hackmaster.lift": "Lift<br>(lbs)",
+    "Hackmaster.carry": "Carry<br>(lbs)",
+    "Hackmaster.drag": "Drag<br>(lbs)",
+    "Hackmaster.dmg_mod": "Dmg.<br>Mod.",
+    "Hackmaster.atk_mod": "Atk.<br>Mod.",
+    "Hackmaster.init_mod": "Init.<br>Mod.",
+    "Hackmaster.def_mod": "Def.<br>Mod.",
+    "Hackmaster.mental_save_mod": "Mental<br>Save",
+    "Hackmaster.dodge_save_mod": "Dodge<br>Save",
+    "Hackmaster.physical_save_mod": "Physical<br>Save",
+    "Hackmaster.turning_mod": "Turning<br>Mod.",
+    "Hackmaster.morale_mod": "Morale<br>Mod."
+}
